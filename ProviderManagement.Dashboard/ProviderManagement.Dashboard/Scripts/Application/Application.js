@@ -1,0 +1,1 @@
+﻿var dashboardApplication = angular.module('dashboardApplication', ['ngRoute', 'ui.bootstrap']);
